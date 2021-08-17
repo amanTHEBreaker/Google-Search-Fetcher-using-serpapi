@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Google Search Fetcher</string>
+    <string name="search">Search</string>
+    <string name="enter_a_query">Enter a query</string>
+    <string name="your_searched_result_will_be_shown_here">Your searched result will be shown here</string>
+    <string name="enter_query_to_search">Enter query to search</string>
+</resources>
