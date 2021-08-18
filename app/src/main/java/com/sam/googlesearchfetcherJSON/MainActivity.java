@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
     private String extractInformation(String googleSearchResults) {
         try {
             //here we created JSONObject of our json file fetched from below URL
-            //https://serpapi.com/search.json?engine=google&q=what%20is%20coronavirus&api_key=14fbe2c5053f205218b41cf7082fd7d2e828f5dcad563037f8d686c8834c81dd
+            //https://serpapi.com/search.json?engine=google&q=what%20is%20coronavirus&api_key=APIKEY
 
             JSONObject jsonObject = new JSONObject(googleSearchResults);
 
