@@ -14,7 +14,7 @@ public class NetworkUtils {
     final static String PARA_QUERY = "q";
 
     final static String API_KEY = "api_key";
-    final static String apiKey = "14fbe2c5053f205218b41cf7082fd7d2e828f5dcad563037f8d686c8834c81dd";
+    final static String apiKey = "YOUR_API_KEY";
     /**
      *  Builds the URI used to query
      */
@@ -56,4 +56,4 @@ public class NetworkUtils {
         }
     }
 }
-//https://serpapi.com/search.json?engine=google&q=what%20is%20coronavirus&api_key=14fbe2c5053f205218b41cf7082fd7d2e828f5dcad563037f8d686c8834c81dd
+//https://serpapi.com/search.json?engine=google&q=what%20is%20coronavirus&api_key=API_KEY
